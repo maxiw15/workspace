@@ -1,0 +1,16 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "Browser based game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "max",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxiw15/workspace"
+  }
+}
